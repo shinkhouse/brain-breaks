@@ -1,0 +1,14 @@
+  "name": "Brain Breaks",
+  "version": "1.0.0",
+  "description": "Brain Breaks is a skill from Graceland University Enactus that allows kids to get a break with a fun activity.",
+  "main": "index.js",
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio streaming"
+  ],
+  "author": "Samuel Hinkhouse",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
